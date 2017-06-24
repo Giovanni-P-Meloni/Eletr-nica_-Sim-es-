@@ -7,4 +7,5 @@ O trabalho e composto por:
 
 Curso: Bacharelado em Ciência da Computação
 
-Professor: Eduardo Valle Simoes
+Professor: Eduardo Valle Simoes 
+( https://github.com/simoesusp )

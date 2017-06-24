@@ -3,8 +3,8 @@ O projeto tem como objetivo simular um semáforo, que pode ser controlado por um
 Dentro do zip havera uma arquivo .io, este é o script implementado no arduino para realizar a tarefa. 
 
 Componentes:
-  - Fios
-  - 3x Resistores 370 Ω
+  - 1x Arduino uno
+  - 3x Resistores 470 Ω
   - 1x Resistor 10k Ω
   - 3x LED's (Vermelho, Amarelo, Verde)
   - 1x PushButton

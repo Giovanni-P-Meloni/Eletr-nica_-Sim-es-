@@ -4,8 +4,8 @@ Dentro do zip havera uma arquivo .io, este é o script implementado no arduino p
 
 Componentes:
   - 1x Arduino uno
-  - 3x Resistores 1k Ω?
-  - 1x Resistor 10k Ω
+  - 3x Resistores 1k Ω
+  - 1x Resistor 5.6k Ω
   - 3x LED's (Vermelho, Amarelo, Verde)
   - 1x PushButton
   - Protoboard

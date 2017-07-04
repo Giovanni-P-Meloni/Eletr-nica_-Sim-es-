@@ -1,5 +1,5 @@
 # Eletronica_Para_Computaçao (Fonte e Arduino)
-Giovanni Paolo Meloni         Nº USP: 10295603
+Nome: Giovanni Paolo Meloni         Nº USP: 10295603
 
 
 Trabalho feito no primeiro período de 2017 em "Eletrônica para Computação"  

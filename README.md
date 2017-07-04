@@ -1,9 +1,9 @@
 # Eletronica_Para_Computaçao (Fonte e Arduino)
-Giovanni Paolo Meloni         NUSP: 10295603
+Giovanni Paolo Meloni         Nº USP: 10295603
 
 
 Trabalho feito no primeiro período de 2017 em "Eletrônica para Computação"  
-O trabalho e composto por:
+O trabalho é composto por:
   - Uma fonte variavel de 2 a 12 volts
   - Um projeto em arduino.
 
